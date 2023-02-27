@@ -10,7 +10,7 @@
 
 1. Watched all playlist related to week 0, from the live session till the follow-up about credential security.
 2. Set-up MFA on root and IAM users. Control IAM policies and no problem about them.
-  Image
+![IAM User set-up](assets/IAM_User.jpg)
 3. Use AWS CloudShell on eu-east-1 region.
   Image
 4. Generate AWS Credentials related to the IAM user. And then put as environment variables in Gitpod.
@@ -24,8 +24,6 @@
 
 
 [AWS CLI Install Documentation Page](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
-
-![Installing AWS CLI](assets/installing-windows-aws-cli.png)
 
 ```
 prova
