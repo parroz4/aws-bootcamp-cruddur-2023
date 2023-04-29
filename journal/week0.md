@@ -13,10 +13,11 @@
 ![IAM User set-up](assets/IAM_User.jpg)
 3. Use AWS CloudShell on eu-east-1 region.
   Image
-   ![IAM User set-up](assets/aws_budget.jpg)
+   ![CloudShell](assets/)
 4. Generate AWS Credentials related to the IAM user. And then put as environment variables in Gitpod.
   Image credentials AWS and Image environment variables
-   ![IAM User set-up](assets/aws_budget.jpg)
+   ![Credentials](assets/.jpg)
+   ![EnvVariables](assets/.jpg)
 5. Install AWS CLI for Gitpod manually and then edited .gitpod.yml to automate installation.
   Code
 6. Create a Budget, using the model JSON from Andrew Brown and then modified to my preference.
