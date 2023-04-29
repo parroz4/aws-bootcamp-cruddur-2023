@@ -26,8 +26,8 @@
  ![Billing2](assets/aws_cloudwatch2.jpg)
  ![Subs](assets/aws_notifications.jpg)
  
-8. [Recreate Conceptual Diagram in Lucid Charts]([https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html](https://lucid.app/lucidchart/5e4dc03f-20f3-43ff-aaff-686f6eb3dbd4/edit?viewport_loc=-608%2C-2%2C2812%2C1374%2C0_0&invitationId=inv_13b72710-5cf8-4918-8c93-e6b2a841bb1b))
-9. [Recreate Logical Architectual Diagram in Lucid Charts]([https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html](https://lucid.app/lucidchart/5e4dc03f-20f3-43ff-aaff-686f6eb3dbd4/edit?viewport_loc=-608%2C-2%2C2812%2C1374%2C0_0&invitationId=inv_13b72710-5cf8-4918-8c93-e6b2a841bb1b))
+8. [Recreate Conceptual Diagram in Lucid Charts](https://lucid.app/lucidchart/5e4dc03f-20f3-43ff-aaff-686f6eb3dbd4/edit?viewport_loc=-608%2C-2%2C2812%2C1374%2C0_0&invitationId=inv_13b72710-5cf8-4918-8c93-e6b2a841bb1b)
+9. [Recreate Logical Architectual Diagram in Lucid Charts](https://lucid.app/lucidchart/5e4dc03f-20f3-43ff-aaff-686f6eb3dbd4/edit?viewport_loc=-608%2C-2%2C2812%2C1374%2C0_0&invitationId=inv_13b72710-5cf8-4918-8c93-e6b2a841bb1b)
 
 [AWS CLI Install Documentation Page](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
 
